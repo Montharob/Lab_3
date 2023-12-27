@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{31611CEA-A581-3079-F42D-A8CD7E87D49C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scipt/charactorMovement.cs">
+    <Files>
+      <File FileName="Assets/Scipt/NewBehaviourScript.cs" Line="89" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab3_(369)" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scipt" expanded="True">
+                <Node name="charactorMovement.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="62a41ebe-bfb3-4ef8-a4b7-7aa212fa2622" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
